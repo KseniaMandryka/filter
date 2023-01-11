@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from "react";
+import { Filter } from "./Filter";
 
-function App() {
+export function App() {
+  const [items, setItems] = useState(null)
+  const [selectedIds, setSelectedIds] = useState(new Set([12723, 12682]))
+  
+  useEffect(() => {
+    fetch("./categories.json").then(response => response.json()).then(response => setItems(response.items))
+  }, [])
+  
+  if(items === null) {
+    return null
+  }
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Filter array={items} value={selectedIds} onChange={setSelectedIds}/>
     </div>
   );
 }
-
-export default App;

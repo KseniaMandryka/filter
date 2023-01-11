@@ -1,0 +1,841 @@
+{
+  "current": 12697,
+  "items": [
+    {
+      "categoryId": 6,
+      "deeplink": "ru.avito://1/items/search?categoryId=6\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12669,
+      "microcategoryId": 7,
+      "name": "Электроника",
+      "url": "/moskva/bytovaya_elektronika?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 84,
+      "deeplink": "ru.avito://1/items/search?categoryId=84\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12723,
+      "microcategoryId": 49,
+      "name": "Телефоны",
+      "parentId": 12669,
+      "url": "/moskva/telefony?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 84,
+      "deeplink": "ru.avito://1/items/search?categoryId=84\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110680%5D=458500\u0026presentationType=serp\u0026sort=default",
+      "id": 29366,
+      "microcategoryId": 1104365,
+      "name": "Мобильные телефоны",
+      "parentId": 12723,
+      "url": "/moskva/telefony/mobile-ASgBAgICAUSwwQ2I_Dc?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 84,
+      "deeplink": "ru.avito://1/items/search?categoryId=84\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110680%5D=458503\u0026presentationType=serp\u0026sort=default",
+      "id": 12758,
+      "microcategoryId": 413,
+      "name": "Аксессуары",
+      "parentId": 12723,
+      "url": "/moskva/telefony/aksessuari-ASgBAgICAUSwwQ2O_Dc?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 84,
+      "deeplink": "ru.avito://1/items/search?categoryId=84\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110680%5D=458501\u0026presentationType=serp\u0026sort=default",
+      "id": 12756,
+      "microcategoryId": 394,
+      "name": "Рации",
+      "parentId": 12723,
+      "url": "/moskva/telefony/ratsiya-ASgBAgICAUSwwQ2K_Dc?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 84,
+      "deeplink": "ru.avito://1/items/search?categoryId=84\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110680%5D=458502\u0026presentationType=serp\u0026sort=default",
+      "id": 12757,
+      "microcategoryId": 396,
+      "name": "Стационарные телефоны",
+      "parentId": 12723,
+      "url": "/moskva/telefony/statsionarnye_telefoni-ASgBAgICAUSwwQ2M_Dc?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12670,
+      "microcategoryId": 43,
+      "name": "Аудио и видео",
+      "parentId": 12669,
+      "url": "/moskva/audio_i_video?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=604\u0026presentationType=serp\u0026sort=default",
+      "id": 12680,
+      "microcategoryId": 287,
+      "name": "Телевизоры и проекторы",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/televizory_i_proektory-ASgBAgICAUSIArgJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110697%5D=470024\u0026params%5B132%5D=604\u0026presentationType=serp\u0026sort=default",
+      "id": 28958,
+      "microcategoryId": 287,
+      "name": "Телевизоры",
+      "parentId": 12680,
+      "url": "/moskva/audio_i_video/televizory_i_proektory/televizory-ASgBAgICAkSIArgJ0sENkLA5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110697%5D=470025\u0026params%5B132%5D=604\u0026presentationType=serp\u0026sort=default",
+      "id": 28959,
+      "microcategoryId": 287,
+      "name": "Проекторы",
+      "parentId": 12680,
+      "url": "/moskva/audio_i_video/televizory_i_proektory/proektory-ASgBAgICAkSIArgJ0sENkrA5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110697%5D=470026\u0026params%5B132%5D=604\u0026presentationType=serp\u0026sort=default",
+      "id": 28960,
+      "microcategoryId": 287,
+      "name": "Другое",
+      "parentId": 12680,
+      "url": "/moskva/audio_i_video/televizory_i_proektory/drugoe-ASgBAgICAkSIArgJ0sENlLA5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=5034\u0026presentationType=serp\u0026sort=default",
+      "id": 12679,
+      "microcategoryId": 293,
+      "name": "Наушники",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/naushniki-ASgBAgICAUSIAtRO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=5030\u0026presentationType=serp\u0026sort=default",
+      "id": 12673,
+      "microcategoryId": 289,
+      "name": "Акустика, колонки, сабвуферы",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/akustika_kolonki_sabvufery-ASgBAgICAUSIAsxO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=606\u0026presentationType=serp\u0026sort=default",
+      "id": 12682,
+      "microcategoryId": 282,
+      "name": "Аксессуары",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/aksessuary-ASgBAgICAUSIArwJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=5033\u0026presentationType=serp\u0026sort=default",
+      "id": 12678,
+      "microcategoryId": 292,
+      "name": "Музыкальные центры, магнитолы",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/muzykalnye_tsentry_magnitoly-ASgBAgICAUSIAtJO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=603\u0026presentationType=serp\u0026sort=default",
+      "id": 12681,
+      "microcategoryId": 286,
+      "name": "Усилители и ресиверы",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/usiliteli_i_resivery-ASgBAgICAUSIArYJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=605\u0026presentationType=serp\u0026sort=default",
+      "id": 12674,
+      "microcategoryId": 288,
+      "name": "Видеокамеры",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/videokamery-ASgBAgICAUSIAroJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=600\u0026presentationType=serp\u0026sort=default",
+      "id": 12672,
+      "microcategoryId": 284,
+      "name": "Видео, DVD и Blu-ray плееры",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/video_dvd_i_blu-ray_pleery-ASgBAgICAUSIArAJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=5031\u0026presentationType=serp\u0026sort=default",
+      "id": 12675,
+      "microcategoryId": 290,
+      "name": "Кабели и адаптеры",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/kabeli_i_adaptery-ASgBAgICAUSIAs5O?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=602\u0026presentationType=serp\u0026sort=default",
+      "id": 12677,
+      "microcategoryId": 283,
+      "name": "Музыка и фильмы",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/muzyka_i_filmy-ASgBAgICAUSIArQJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=5032\u0026presentationType=serp\u0026sort=default",
+      "id": 12676,
+      "microcategoryId": 291,
+      "name": "Микрофоны",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/mikrofony-ASgBAgICAUSIAtBO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 32,
+      "deeplink": "ru.avito://1/items/search?categoryId=32\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B132%5D=601\u0026presentationType=serp\u0026sort=default",
+      "id": 12671,
+      "microcategoryId": 285,
+      "name": "MP3-плееры",
+      "parentId": 12670,
+      "url": "/moskva/audio_i_video/mp3-pleery-ASgBAgICAUSIArIJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12766,
+      "microcategoryId": 42,
+      "name": "Товары для компьютера",
+      "parentId": 12669,
+      "url": "/moskva/tovary_dlya_kompyutera?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026presentationType=serp\u0026sort=default",
+      "id": 12771,
+      "microcategoryId": 591,
+      "name": "Комплектующие",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie-ASgBAgICAUTGB~pm?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6631\u0026presentationType=serp\u0026sort=default",
+      "id": 12775,
+      "microcategoryId": 3846,
+      "name": "Материнские платы",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/materinskie_platy-ASgBAgICAkTGB~pm7gnOZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6636\u0026presentationType=serp\u0026sort=default",
+      "id": 12780,
+      "microcategoryId": 3845,
+      "name": "Оперативная память",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/operativnaya_pamyat-ASgBAgICAkTGB~pm7gnYZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6616\u0026presentationType=serp\u0026sort=default",
+      "id": 12776,
+      "microcategoryId": 3849,
+      "name": "Жёсткие диски",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/zhestkie_diski-ASgBAgICAkTGB~pm7gmwZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6641\u0026presentationType=serp\u0026sort=default",
+      "id": 12781,
+      "microcategoryId": 3844,
+      "name": "Процессоры",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/protsessory-ASgBAgICAkTGB~pm7gniZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6606\u0026presentationType=serp\u0026sort=default",
+      "id": 12773,
+      "microcategoryId": 3840,
+      "name": "Блоки питания",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/bloki_pitaniya-ASgBAgICAkTGB~pm7gmcZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6626\u0026presentationType=serp\u0026sort=default",
+      "id": 12779,
+      "microcategoryId": 3847,
+      "name": "Корпусы",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/korpusy-ASgBAgICAkTGB~pm7gnEZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6651\u0026presentationType=serp\u0026sort=default",
+      "id": 12782,
+      "microcategoryId": 3842,
+      "name": "Системы охлаждения",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/sistemy_ohlazhdeniya-ASgBAgICAkTGB~pm7gn2Zw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6646\u0026presentationType=serp\u0026sort=default",
+      "id": 12778,
+      "microcategoryId": 3843,
+      "name": "Контроллеры",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/kontrollery-ASgBAgICAkTGB~pm7gnsZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6621\u0026presentationType=serp\u0026sort=default",
+      "id": 12777,
+      "microcategoryId": 3848,
+      "name": "Звуковые карты",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/zvukovye_karty-ASgBAgICAkTGB~pm7gm6Zw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6601\u0026presentationType=serp\u0026sort=default",
+      "id": 12772,
+      "microcategoryId": 3839,
+      "name": "CD, DVD и Blu-ray приводы",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/cd_dvd_i_blu-ray_privody-ASgBAgICAkTGB~pm7gmSZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6581\u0026params%5B631%5D=6611\u0026presentationType=serp\u0026sort=default",
+      "id": 12774,
+      "microcategoryId": 3841,
+      "name": "Видеокарты",
+      "parentId": 12771,
+      "url": "/moskva/tovary_dlya_kompyutera/komplektuyuschie/videokarty-ASgBAgICAkTGB~pm7gmmZw?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6656\u0026presentationType=serp\u0026sort=default",
+      "id": 12783,
+      "microcategoryId": 583,
+      "name": "Мониторы",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/monitory-ASgBAgICAUTGB4Bo?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5023\u0026presentationType=serp\u0026sort=default",
+      "id": 12785,
+      "microcategoryId": 592,
+      "name": "Сетевое оборудование",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/setevoe_oborudovanie-ASgBAgICAUTGB75O?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5022\u0026presentationType=serp\u0026sort=default",
+      "id": 12770,
+      "microcategoryId": 587,
+      "name": "Клавиатуры и мыши",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/klaviatury_i_myshi-ASgBAgICAUTGB7xO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=6666\u0026presentationType=serp\u0026sort=default",
+      "id": 12788,
+      "microcategoryId": 590,
+      "name": "Аксессуары",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/aksessuary-ASgBAgICAUTGB5Ro?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5019\u0026presentationType=serp\u0026sort=default",
+      "id": 12769,
+      "microcategoryId": 589,
+      "name": "Джойстики и рули",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/dzhoystiki_i_ruli-ASgBAgICAUTGB7ZO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5027\u0026presentationType=serp\u0026sort=default",
+      "id": 12787,
+      "microcategoryId": 584,
+      "name": "Флэшки и карты памяти",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/fleshki_i_karty_pamyati-ASgBAgICAUTGB8ZO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5018\u0026presentationType=serp\u0026sort=default",
+      "id": 12767,
+      "microcategoryId": 593,
+      "name": "Акустика",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/akustika-ASgBAgICAUTGB7RO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5025\u0026presentationType=serp\u0026sort=default",
+      "id": 12784,
+      "microcategoryId": 586,
+      "name": "Переносные жёсткие диски",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/perenosnye_zhestkie_diski-ASgBAgICAUTGB8JO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5020\u0026presentationType=serp\u0026sort=default",
+      "id": 12768,
+      "microcategoryId": 588,
+      "name": "Веб-камеры",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/veb-kamery-ASgBAgICAUTGB7hO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 101,
+      "deeplink": "ru.avito://1/items/search?categoryId=101\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B483%5D=5026\u0026presentationType=serp\u0026sort=default",
+      "id": 12786,
+      "microcategoryId": 585,
+      "name": "ТВ-тюнеры",
+      "parentId": 12766,
+      "url": "/moskva/tovary_dlya_kompyutera/tv-tyunery-ASgBAgICAUTGB8RO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 97,
+      "deeplink": "ru.avito://1/items/search?categoryId=97\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12690,
+      "microcategoryId": 44,
+      "name": "Игры, приставки и программы",
+      "parentId": 12669,
+      "url": "/moskva/igry_pristavki_i_programmy?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 97,
+      "deeplink": "ru.avito://1/items/search?categoryId=97\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B137%5D=613\u0026presentationType=serp\u0026sort=default",
+      "id": 12693,
+      "microcategoryId": 575,
+      "name": "Игровые приставки",
+      "parentId": 12690,
+      "url": "/moskva/igry_pristavki_i_programmy/igrovye_pristavki-ASgBAgICAUSSAsoJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 97,
+      "deeplink": "ru.avito://1/items/search?categoryId=97\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B137%5D=611\u0026presentationType=serp\u0026sort=default",
+      "id": 12691,
+      "microcategoryId": 573,
+      "name": "Игры для приставок",
+      "parentId": 12690,
+      "url": "/moskva/igry_pristavki_i_programmy/igry_dlya_pristavok-ASgBAgICAUSSAsYJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 97,
+      "deeplink": "ru.avito://1/items/search?categoryId=97\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B137%5D=615\u0026presentationType=serp\u0026sort=default",
+      "id": 12694,
+      "microcategoryId": 572,
+      "name": "Программы",
+      "parentId": 12690,
+      "url": "/moskva/igry_pristavki_i_programmy/programmy-ASgBAgICAUSSAs4J?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 97,
+      "deeplink": "ru.avito://1/items/search?categoryId=97\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B137%5D=612\u0026presentationType=serp\u0026sort=default",
+      "id": 12692,
+      "microcategoryId": 574,
+      "name": "Компьютерные игры",
+      "parentId": 12690,
+      "url": "/moskva/igry_pristavki_i_programmy/kompyuternye_igry-ASgBAgICAUSSAsgJ?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 98,
+      "deeplink": "ru.avito://1/items/search?categoryId=98\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12696,
+      "microcategoryId": 46,
+      "name": "Ноутбуки",
+      "parentId": 12669,
+      "url": "/moskva/noutbuki?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 31,
+      "deeplink": "ru.avito://1/items/search?categoryId=31\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12695,
+      "microcategoryId": 45,
+      "name": "Настольные компьютеры",
+      "parentId": 12669,
+      "url": "/moskva/nastolnye_kompyutery?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12683,
+      "microcategoryId": 50,
+      "name": "Фототехника",
+      "parentId": 12669,
+      "url": "/moskva/fototehnika?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1495\u0026presentationType=serp\u0026sort=default",
+      "id": 12689,
+      "microcategoryId": 598,
+      "name": "Оборудование и аксессуары",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/oborudovanie_i_aksessuary-ASgBAgICAUS~A64X?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1496\u0026presentationType=serp\u0026sort=default",
+      "id": 12685,
+      "microcategoryId": 602,
+      "name": "Зеркальные фотоаппараты",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/zerkalnye_fotoapparaty-ASgBAgICAUS~A7AX?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1491\u0026presentationType=serp\u0026sort=default",
+      "id": 12688,
+      "microcategoryId": 600,
+      "name": "Объективы",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/obektivy-ASgBAgICAUS~A6YX?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1497\u0026presentationType=serp\u0026sort=default",
+      "id": 12684,
+      "microcategoryId": 603,
+      "name": "Компактные фотоаппараты",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/kompaktnye_fotoapparaty-ASgBAgICAUS~A7IX?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1492\u0026presentationType=serp\u0026sort=default",
+      "id": 12686,
+      "microcategoryId": 601,
+      "name": "Плёночные фотоаппараты",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/plenochnye_fotoapparaty-ASgBAgICAUS~A6gX?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 105,
+      "deeplink": "ru.avito://1/items/search?categoryId=105\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B223%5D=1489\u0026presentationType=serp\u0026sort=default",
+      "id": 12687,
+      "microcategoryId": 599,
+      "name": "Бинокли и телескопы",
+      "parentId": 12683,
+      "url": "/moskva/fototehnika/binokli_i_teleskopy-ASgBAgICAUS~A6IX?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12710,
+      "microcategoryId": 48,
+      "name": "Планшеты и электронные книги",
+      "parentId": 12669,
+      "url": "/moskva/planshety_i_elektronnye_knigi?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4995\u0026presentationType=serp\u0026sort=default",
+      "id": 12711,
+      "microcategoryId": 569,
+      "name": "Планшеты",
+      "parentId": 12710,
+      "url": "/moskva/planshety_i_elektronnye_knigi/planshety-ASgBAgICAUSYAoZO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026presentationType=serp\u0026sort=default",
+      "id": 12713,
+      "microcategoryId": 571,
+      "name": "Аксессуары",
+      "parentId": 12710,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary-ASgBAgICAUSYAopO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=4998\u0026presentationType=serp\u0026sort=default",
+      "id": 12714,
+      "microcategoryId": 3736,
+      "name": "Аккумуляторы",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/akkumulyatory-ASgBAgICAkSYAopOwgeMTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=4999\u0026presentationType=serp\u0026sort=default",
+      "id": 12716,
+      "microcategoryId": 3737,
+      "name": "Гарнитуры и наушники",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/garnitury_i_naushniki-ASgBAgICAkSYAopOwgeOTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5000\u0026presentationType=serp\u0026sort=default",
+      "id": 12717,
+      "microcategoryId": 3738,
+      "name": "Док-станции",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/dok-stantsii-ASgBAgICAkSYAopOwgeQTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5001\u0026presentationType=serp\u0026sort=default",
+      "id": 12718,
+      "microcategoryId": 3739,
+      "name": "Зарядные устройства",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/zaryadnye_ustroystva-ASgBAgICAkSYAopOwgeSTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5002\u0026presentationType=serp\u0026sort=default",
+      "id": 12719,
+      "microcategoryId": 3740,
+      "name": "Кабели и адаптеры",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/kabeli_i_adaptery-ASgBAgICAkSYAopOwgeUTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5003\u0026presentationType=serp\u0026sort=default",
+      "id": 12720,
+      "microcategoryId": 3741,
+      "name": "Модемы и роутеры",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/modemy_i_routery-ASgBAgICAkSYAopOwgeWTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5004\u0026presentationType=serp\u0026sort=default",
+      "id": 12715,
+      "microcategoryId": 3742,
+      "name": "Стилусы",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/stilusy-ASgBAgICAkSYAopOwgeYTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5005\u0026presentationType=serp\u0026sort=default",
+      "id": 12721,
+      "microcategoryId": 3743,
+      "name": "Чехлы и плёнки",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/chehly_i_plenki-ASgBAgICAkSYAopOwgeaTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4997\u0026params%5B481%5D=5006\u0026presentationType=serp\u0026sort=default",
+      "id": 12722,
+      "microcategoryId": 3735,
+      "name": "Другое",
+      "parentId": 12713,
+      "url": "/moskva/planshety_i_elektronnye_knigi/aksessuary/drugoe-ASgBAgICAkSYAopOwgecTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 96,
+      "deeplink": "ru.avito://1/items/search?categoryId=96\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B140%5D=4996\u0026presentationType=serp\u0026sort=default",
+      "id": 12712,
+      "microcategoryId": 570,
+      "name": "Электронные книги",
+      "parentId": 12710,
+      "url": "/moskva/planshety_i_elektronnye_knigi/elektronnye_knigi-ASgBAgICAUSYAohO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026presentationType=serp\u0026sort=default",
+      "id": 12697,
+      "microcategoryId": 47,
+      "name": "Оргтехника и расходники",
+      "parentId": 12669,
+      "url": "/moskva/orgtehnika_i_rashodniki?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026presentationType=serp\u0026sort=default",
+      "id": 12703,
+      "microcategoryId": 577,
+      "name": "Расходные материалы",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy-ASgBAgICAUSoAoYK?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026params%5B485%5D=5044\u0026presentationType=serp\u0026sort=default",
+      "id": 12704,
+      "microcategoryId": 3744,
+      "name": "Блоки питания и батареи",
+      "parentId": 12703,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy/bloki_pitaniya_i_batarei-ASgBAgICAkSoAoYKygfoTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026params%5B485%5D=5046\u0026presentationType=serp\u0026sort=default",
+      "id": 12706,
+      "microcategoryId": 3746,
+      "name": "Бумага",
+      "parentId": 12703,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy/bumaga-ASgBAgICAkSoAoYKygfsTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026params%5B485%5D=5047\u0026presentationType=serp\u0026sort=default",
+      "id": 12707,
+      "microcategoryId": 3747,
+      "name": "Кабели и адаптеры",
+      "parentId": 12703,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy/kabeli_i_adaptery-ASgBAgICAkSoAoYKygfuTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026params%5B485%5D=5045\u0026presentationType=serp\u0026sort=default",
+      "id": 12705,
+      "microcategoryId": 3745,
+      "name": "Болванки",
+      "parentId": 12703,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy/bolvanki-ASgBAgICAkSoAoYKygfqTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=643\u0026params%5B485%5D=5048\u0026presentationType=serp\u0026sort=default",
+      "id": 12708,
+      "microcategoryId": 3748,
+      "name": "Картриджи",
+      "parentId": 12703,
+      "url": "/moskva/orgtehnika_i_rashodniki/rashodnye_materialy/kartridzhi-ASgBAgICAkSoAoYKygfwTg?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=5053\u0026presentationType=serp\u0026sort=default",
+      "id": 12698,
+      "microcategoryId": 579,
+      "name": "МФУ, копиры и сканеры",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/mfu_kopiry_i_skanery-ASgBAgICAUSoAvpO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110703%5D=470114\u0026params%5B148%5D=5053\u0026presentationType=serp\u0026sort=default",
+      "id": 28966,
+      "microcategoryId": 579,
+      "name": "МФУ",
+      "parentId": 12698,
+      "url": "/moskva/orgtehnika_i_rashodniki/mfu-ASgBAgICAkSoAvpO3sENxLE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110703%5D=470117\u0026params%5B148%5D=5053\u0026presentationType=serp\u0026sort=default",
+      "id": 28967,
+      "microcategoryId": 579,
+      "name": "Копиры",
+      "parentId": 12698,
+      "url": "/moskva/orgtehnika_i_rashodniki/kopiry-ASgBAgICAkSoAvpO3sENyrE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110703%5D=470116\u0026params%5B148%5D=5053\u0026presentationType=serp\u0026sort=default",
+      "id": 28968,
+      "microcategoryId": 579,
+      "name": "Сканеры",
+      "parentId": 12698,
+      "url": "/moskva/orgtehnika_i_rashodniki/skanery-ASgBAgICAkSoAvpO3sENyLE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110703%5D=470119\u0026params%5B148%5D=5053\u0026presentationType=serp\u0026sort=default",
+      "id": 28969,
+      "microcategoryId": 579,
+      "name": "Другое",
+      "parentId": 12698,
+      "url": "/moskva/orgtehnika_i_rashodniki/mfu_kopiry_i_skanery/drugoe-ASgBAgICAkSoAvpO3sENzrE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=642\u0026presentationType=serp\u0026sort=default",
+      "id": 12699,
+      "microcategoryId": 576,
+      "name": "Принтеры",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/printery-ASgBAgICAUSoAoQK?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=644\u0026presentationType=serp\u0026sort=default",
+      "id": 12709,
+      "microcategoryId": 578,
+      "name": "Канцелярия",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/kantselyariya-ASgBAgICAUSoAogK?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=5055\u0026presentationType=serp\u0026sort=default",
+      "id": 12701,
+      "microcategoryId": 581,
+      "name": "ИБП, сетевые фильтры",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/ibp_setevye_filtry-ASgBAgICAUSoAv5O?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110704%5D=470120\u0026params%5B148%5D=5055\u0026presentationType=serp\u0026sort=default",
+      "id": 28978,
+      "microcategoryId": 581,
+      "name": "ИБП",
+      "parentId": 12701,
+      "url": "/moskva/orgtehnika_i_rashodniki/ibp_setevye_filtry/ibp-ASgBAgICAkSoAv5O4MEN0LE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110704%5D=470121\u0026params%5B148%5D=5055\u0026presentationType=serp\u0026sort=default",
+      "id": 28979,
+      "microcategoryId": 581,
+      "name": "Стабилизаторы напряжения",
+      "parentId": 12701,
+      "url": "/moskva/orgtehnika_i_rashodniki/ibp_setevye_filtry/stabilizatory_napryazheniya-ASgBAgICAkSoAv5O4MEN0rE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110704%5D=470122\u0026params%5B148%5D=5055\u0026presentationType=serp\u0026sort=default",
+      "id": 28980,
+      "microcategoryId": 581,
+      "name": "Сетевые фильтры",
+      "parentId": 12701,
+      "url": "/moskva/orgtehnika_i_rashodniki/ibp_setevye_filtry/setevye_filtry-ASgBAgICAkSoAv5O4MEN1LE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B110704%5D=470123\u0026params%5B148%5D=5055\u0026presentationType=serp\u0026sort=default",
+      "id": 28981,
+      "microcategoryId": 581,
+      "name": "Другое",
+      "parentId": 12701,
+      "url": "/moskva/orgtehnika_i_rashodniki/ibp_setevye_filtry/drugoe-ASgBAgICAkSoAv5O4MEN1rE5?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=5054\u0026presentationType=serp\u0026sort=default",
+      "id": 12700,
+      "microcategoryId": 580,
+      "name": "Телефония",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/telefoniya-ASgBAgICAUSoAvxO?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    },
+    {
+      "categoryId": 99,
+      "deeplink": "ru.avito://1/items/search?categoryId=99\u0026geoCoords=55.755814%2C37.617635\u0026locationId=637640\u0026params%5B148%5D=5056\u0026presentationType=serp\u0026sort=default",
+      "id": 12702,
+      "microcategoryId": 582,
+      "name": "Уничтожители бумаг",
+      "parentId": 12697,
+      "url": "/moskva/orgtehnika_i_rashodniki/unichtozhiteli_bumag-ASgBAgICAUSoAoBP?geoCoords=55.755814%2C37.617635\u0026presentationType=serp"
+    }
+  ]
+}
