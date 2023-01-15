@@ -3,7 +3,7 @@ import { Filter } from "./Filter";
 
 export function App() {
   const [items, setItems] = useState(null)
-  const [selectedIds, setSelectedIds] = useState(new Set([12723, 12682]))
+  const [selectedIds, setSelectedIds] = useState(new Set([]))
 
   useEffect(() => {
     fetch("./categories.json").then(response => response.json()).then(response => setItems(response.items))
@@ -15,7 +15,7 @@ export function App() {
 
 
   return (
-    <div>
+    <div className="filter">
       <Filter array={items} selectedIds={selectedIds} onChange={setSelectedIds} />
     </div>
   );

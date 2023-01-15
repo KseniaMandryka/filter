@@ -2,7 +2,7 @@ import { FiltersTree } from "./FiltersTree"
 import { useState } from "react"
 
 export function FiltersItem({ array, item, selectedIds, toggleId }) {
-  const [showMore, setShowMore] = useState(true)
+  const [showMore, setShowMore] = useState(false)
 
   const hasChildren = array.some(elem => elem.parentId === item.id)
 
@@ -12,12 +12,11 @@ export function FiltersItem({ array, item, selectedIds, toggleId }) {
 
 
   return (
-    <li>
-      <div>
-        {hasChildren &&
-          <button onClick={handleClick}>
-            {showMore ? "+" : "-"}
-          </button>
+    <li className="filter-item">
+      <div className="filter-item-category">
+        {hasChildren ?
+          <button onClick={handleClick} className={showMore ? "child-category show" : "child-category"}></button> :
+          <div className="without-child"></div>
         }
         <input
           type="checkbox"
@@ -26,12 +25,10 @@ export function FiltersItem({ array, item, selectedIds, toggleId }) {
         >
         </input>
         {item.name}
-
-        {!showMore && hasChildren &&
-          <FiltersTree array={array} parentId={item.id} selectedIds={selectedIds} toggleId={toggleId} />
-        }
       </div>
+      {showMore && hasChildren &&
+        <FiltersTree array={array} parentId={item.id} selectedIds={selectedIds} toggleId={toggleId} />
+      }
     </li>
-
   )
 }
