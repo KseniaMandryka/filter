@@ -1,7 +1,7 @@
 # filter component with React
 
 A `<Filter/>` React component based on nested tree filter, for making and adding to selections using a checkbox.\
-[View demonstration] (https://kseniamandryka.github.io/filter)
+[View demonstration](https://kseniamandryka.github.io/filter/)
 
 ## Install
 Before start, you need to check if node.js and npm are installed
