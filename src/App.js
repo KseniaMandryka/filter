@@ -6,7 +6,7 @@ export function App() {
   const [selectedIds, setSelectedIds] = useState(new Set([]))
 
   useEffect(() => {
-    fetch("./categories.json").then(response => response.json()).then(response => setItems(response.items))
+    fetch("./categories.json").then(response => response.json()).then(response => setItems(response))
   }, [])
 
   if (items === null) {

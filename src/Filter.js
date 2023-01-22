@@ -16,27 +16,21 @@ function findSibling(array, id) {
 }
 
 function addAncestors(array, id, filteredIds) {
+  if(!id) {
+    return
+  }
+
   const sibling = findSibling(array, id)
   const parentId = sibling[0]?.parentId
 
-  if (sibling.length > 0) {
-    let countOfSibling = 0
-
-    for (const sib of sibling) {
-      if (filteredIds.has(sib.id)) {
-        countOfSibling++
-      }
-    }
-
-    if (countOfSibling === sibling.length) {
-      filteredIds.add(parentId)
-      addAncestors(array, parentId, filteredIds)
-    }
+  if (sibling.every(item => filteredIds.has(item.id))) {
+    filteredIds.add(parentId)
+    addAncestors(array, parentId, filteredIds)
   }
 }
 
 function deleteAncestors(array, id, filteredIds) {
-  const parentId = array.filter(item => item.id === id)[0]?.parentId
+  const parentId = array.find(item => item.id === id)?.parentId
 
   if (filteredIds.has(id)) {
     filteredIds.delete(id)
@@ -55,14 +49,14 @@ export function Filter({ array, selectedIds, onChange }) {
     if (selectedIds.has(id)) {
       deleteAncestors(array, id, copySelectedIds)
 
-      for (let child of descendants) {
+      for (const child of descendants) {
         copySelectedIds.delete(child)
       }
 
     } else {
       copySelectedIds.add(id)
 
-      for (let child of descendants) {
+      for (const child of descendants) {
         copySelectedIds.add(child)
       }
 
